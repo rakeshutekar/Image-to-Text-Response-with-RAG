@@ -1,0 +1,5 @@
+streamlit
+Pillow
+transformers
+openai
+python-dotenv
