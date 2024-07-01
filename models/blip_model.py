@@ -16,3 +16,4 @@ def extract_image_details(image):
     generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
     print(f"BLIP Model Description: {generated_text}")  # Debugging print statement
     return generated_text
+    
